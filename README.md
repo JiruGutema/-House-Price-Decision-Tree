@@ -11,9 +11,8 @@
 - deployed linked can be found [here](https://house-price-decision-tree.onrender.com/)
 - notebook link can be found [here](https://colab.research.google.com/drive/1UvgSVQdetdlap2n6bE33UTbpWqOdTF2u?usp=sharing)
 
-### This application uses a machine learning regression model to estimate the market value of a house based on key property features
+### This application uses a machine learning decision tree model to estimate the market value of a house based on key property features
 
 ### The dataset used in this project is designed for beginners learning regression. It contains 1000 rows, where each row represents a house and multiple attributes that influence its price
 
-### This makes the project ideal for practicing basic to intermediate-level regression modeling techniques using real-world–style data
 
