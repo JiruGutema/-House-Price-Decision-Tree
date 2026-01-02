@@ -8,7 +8,8 @@
 
 - Stream:
 - Software
-- deployed linked can be found [here](https://house-price-1-q9h7.onrender.com/)
+- deployed linked can be found [here](https://house-price-decision-tree.onrender.com/)
+- notebook link can be found [here](https://colab.research.google.com/drive/1UvgSVQdetdlap2n6bE33UTbpWqOdTF2u?usp=sharing)
 
 ### This application uses a machine learning regression model to estimate the market value of a house based on key property features
 
