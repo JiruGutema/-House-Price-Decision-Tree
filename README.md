@@ -1,4 +1,4 @@
-# House-Price
+
 
 - Name:
 - Jiru Gutema
@@ -15,4 +15,4 @@
 ### The dataset used in this project is designed for beginners learning regression. It contains 1000 rows, where each row represents a house and multiple attributes that influence its price
 
 ### This makes the project ideal for practicing basic to intermediate-level regression modeling techniques using real-world–style data
-# -House-Price-Decision-Tree
+
